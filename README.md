@@ -172,7 +172,7 @@ Downloaded the Student Registration Application WAR file from GitHub.
 **Command template:**
 
 ``` bash
-curl -L -O <GITHUB_WAR_FILE_URL>
+curl -L -O <https://github.com/Shubham-Dahake/Application-Three-Tier/raw/refs/heads/main/student.war>
 ```
 
 Copied `student.war` into Tomcat's `webapps` directory. Tomcat deploys

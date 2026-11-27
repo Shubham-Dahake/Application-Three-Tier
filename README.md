@@ -95,12 +95,10 @@ Created two route tables.
 
 #### VPC and Subnet Resource Map
 
-<img width="1562" height="557" alt="Screenshot 2026-11-24 165607" src="https://github.com/user-attachments/assets/19261388-a8df-4287-804f-5222685b4eb4" />
-
-
 #### Internet Gateway and NAT Gateway Connections
 
-<img width="1566" height="547" alt="Screenshot 2026-11-24 165620" src="https://github.com/user-attachments/assets/e7763a97-1fa7-4fd1-8e36-f0ac8a2d8078" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-27 121255" src="https://github.com/user-attachments/assets/a4d11a37-33e4-45f6-af00-a59a43b4e939" />
+
 
 ### 6. EC2 Instance Deployment
 
@@ -262,8 +260,7 @@ auto-increment.
 
 #### Student Records in MariaDB
 
-<img width="1185" height="147" alt="Screenshot 2026-11-25 102650" src="https://github.com/user-attachments/assets/24f8cbc7-c227-4d8c-81e3-bd08fb53c698" />
-
+<img width="1917" height="1077" alt="Screenshot 2026-11-27 122926" src="https://github.com/user-attachments/assets/f9c800cc-f35b-44b6-9558-01c3e13a1065" />
 
 ------------------------------------------------------------------------
 
@@ -318,35 +315,20 @@ Nginx Reverse Proxy.
 
 #### Student Registration Form
 
-<img width="1917" height="1020" alt="Screenshot 2026-11-25 102124" src="https://github.com/user-attachments/assets/6ff9b019-aeb1-4d1d-a46b-a4440d1233b9" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-27 115217" src="https://github.com/user-attachments/assets/da9f1b62-b6ec-401a-9d38-fffb0a22f45e" />
+
 
 
 #### Students List
 
-<img width="1917" height="1020" alt="Screenshot 2026-11-25 102107" src="https://github.com/user-attachments/assets/c2dde6f8-d97a-40e8-8e69-5b8bf65b9465" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-27 115209" src="https://github.com/user-attachments/assets/539b41e5-914a-4401-bee5-4b8ca1f898aa" />
+
 
 
 
 ------------------------------------------------------------------------
 
-## Key Learning Outcomes
 
-Through this project, I gained practical experience in:
-
--   Creating and configuring a custom AWS VPC.
--   Working with Public and Private Subnets.
--   Configuring Internet Gateway and NAT Gateway.
--   Associating an Elastic IP with a NAT Gateway.
--   Configuring Public and Private Route Tables.
--   Launching and managing multiple EC2 instances.
--   Configuring Security Groups for server communication.
--   Connecting to private EC2 instances using SSH jump access.
--   Installing and configuring Nginx as a Reverse Proxy.
--   Installing Java and Apache Tomcat 9.
--   Deploying Java applications using WAR files.
--   Configuring JDBC database connectivity.
--   Setting up MariaDB on Amazon RDS.
--   Testing a Three-Tier Web Application through a browser.
 
 ## Conclusion
 

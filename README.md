@@ -333,11 +333,4 @@ instances, Nginx, Apache Tomcat, Java, and MariaDB/RDS, I practised
 cloud networking, Linux server administration, application deployment,
 and database connectivity.
 
-**This project represents my practical learning journey in AWS and Cloud
-Computing.**
-
-------------------------------------------------------------------------
-## 👤 Author
-
-Shubham Dahake
 

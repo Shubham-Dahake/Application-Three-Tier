@@ -15,6 +15,9 @@ The project covers AWS networking, private server access, NAT Gateway,
 Internet Gateway, Elastic IP, reverse proxy configuration, application
 deployment, and database connectivity.
 
+## Architecture Diagram
+
+<img width="1280" height="659" alt="Application" src="https://github.com/user-attachments/assets/0267a927-7218-4c41-9881-9f0cf779b777" />
 
 
 ## Technologies Used

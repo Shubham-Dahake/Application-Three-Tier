@@ -14,11 +14,6 @@ The project covers AWS networking, private server access, NAT Gateway,
 Internet Gateway, Elastic IP, reverse proxy configuration, application
 deployment, and database connectivity.
 
-## Architecture
-
-
-
-<img width="1536" height="1024" alt="AWS Three-Tier Student Registration Architecture俺去也" src="https://github.com/user-attachments/assets/ad1647a0-03f3-4be1-b2af-693566f64f6a" />
 
 
 ## Technologies Used

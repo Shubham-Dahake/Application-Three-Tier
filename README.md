@@ -1,4 +1,5 @@
-# Three-Tier Web Application Deployment on AWS
+# Three-Tier Web Application
+
 
 ## Project Overview
 

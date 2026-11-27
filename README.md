@@ -185,7 +185,7 @@ Downloaded the MySQL Connector JAR file from GitHub.
 **Command template:**
 
 ``` bash
-sudo wget -O mysql-connector.jar <GITHUB_CONNECTOR_URL>
+sudo wget -O mysql-connector.jar < https://github.com/Shubham-Dahake/Application-Three-Tier/raw/refs/heads/main/mysql-connector.jar>
 ```
 
 Copied the connector JAR file into Tomcat's `lib` directory. The JDBC
@@ -203,8 +203,6 @@ conf/context.xml
 Configured the JDBC Resource with the database name, endpoint, username,
 password, and JDBC driver according to the application requirements.
 
-**Security note:** Do not commit database passwords, private keys, or
-other credentials to GitHub. Use placeholders in public documentation.
 
 ------------------------------------------------------------------------
 
@@ -235,6 +233,16 @@ Connected to MariaDB and used the `studentapp` database.
 ``` sql
 SHOW DATABASES;
 USE studentapp;
+CREATE TABLE IF NOT EXISTS students (
+    student_id INT NOT NULL AUTO_INCREMENT,
+    student_name VARCHAR(100) NOT NULL,
+    student_addr VARCHAR(100) NOT NULL,
+    student_age VARCHAR(3) NOT NULL,
+    student_qual VARCHAR(20) NOT NULL,
+    student_percent VARCHAR(10) NOT NULL,
+    student_year_passed VARCHAR(10) NOT NULL,
+    PRIMARY KEY (student_id)
+);
 SHOW TABLES;
 DESC students;
 SELECT * FROM students;
